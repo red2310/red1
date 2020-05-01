@@ -1,2 +1,1 @@
-# red1
-0
+"# djangobot" 
